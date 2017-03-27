@@ -10,5 +10,7 @@ You can [download the application](http://www.floorballcoaches.com/trainingplann
 ![ExerciseDrawer Screenshot 2](http://www.floorballcoaches.com/trainingplanner/TrainingPlanner-2.jpg)
 ![ExerciseDrawer Screenshot 3](http://www.floorballcoaches.com/trainingplanner/TrainingPlanner-3.jpg)
 
-## Abandoned
+## Development
 Application is not maintained anymore. Whoever wants can take it over and continue in development.
+
+For development there is required **Borland Delphi 7**.
