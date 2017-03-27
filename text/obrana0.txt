@@ -1,0 +1,5 @@
+Obrana cv.1
+* Hráè C je otoèenı zády, hráèi A a B normálnì vpøed
+* Hráè A nahodí míèek na zadní mantinel (zadní stìnu, lavièku v rohu)
+* Hráèi B a C sprintují za míèkem, hráè B zpracuje míèek a snaí se uvolnit (1 na 1) pøes bránicího hráèe C a nahrát hráèi A kterı støílí
+* Hráè se snaí zmocnit se míèku (dostat jej pod kontrolu) a znemonit tak vstøelení branky

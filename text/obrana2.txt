@@ -1,0 +1,3 @@
+Oslabení
+* Cílem tohoto cvièení je nauèit se odhadovat, zachytávat a využívat chyb protivníka
+* Nauèit se udržovat ètvercovou formaci

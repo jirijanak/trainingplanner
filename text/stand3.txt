@@ -1,0 +1,9 @@
+Standartky 6,7
+Cvièení 6
+* Hráè A nakrátko pøihraje hráèi B, ten obíhá branku
+* Souèasnì hráèi A a C nabíhají k brance
+* Hráè B buï nahrává hráèi A nebo C, nebo sám støílí
+
+Cvièení 7
+* Hráè B musí mít hokejku "dovnitø" høištì ze strany ze které si standartní situace rozehrává
+* Hráè A pøiukne kolem probíhajícímu hráèi B ten si zatáhne do lepšího støeleckého úhlu a støílí

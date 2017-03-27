@@ -1,0 +1,3 @@
+Standartky 3
+* Hráè A nahrává hráèi B kterı nahrává hráèi C kterı støílí
+* Dùleitá je patøièná vzdálenost mezi hráèi

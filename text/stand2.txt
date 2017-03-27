@@ -1,0 +1,11 @@
+Standartky 4,5
+Cvièení 4
+* Hráè A nahrává smìrem na hráèe B, ten nechává projít míèek (mezi nohama, atp) na hráèe C
+* Po pøenechání míèku hráè B vybìhne smìrem k hráèi D a spoleènì s ním blokují krajní obránce (B ty ve zdi, D toho mimo zeï, toho co si hlídal C)
+* Hráè E stojí na hranici malého brankovištì pøipraven na teè, doráku, váe na sebe dalšího bránícího hráèe
+* Hráè C støílí
+
+Cvièení 5
+* Hráè A pøihrává míèek lobem na nabíhajícího hráèe B
+* Mezitím hráè C obíhá branku
+* Hráè A se snaí nahodit míèek tak aby letìl mimo branku, aby jej nemoh chytit brankáø, ale pokud ho nezpracuje/nesteèuje hráè B, aby ho získal nabíhající hráè C a pokraèoval v akci

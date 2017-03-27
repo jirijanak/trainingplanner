@@ -1,0 +1,9 @@
+Standartky 1,2
+Cvièení 1
+* Hráè A pøiukne hráèí B kterı bìí po køídle a pøedstírá e bude støílet
+* Hráè A bìí za zády hráèe B.
+* Hráè B pøihraje mezi nohama za sebe hráèi A a ten støílí
+
+Cvièení 2
+* Hráè A pøihrává míèek za branku hráèi B
+* Hráè B stojí vedle branky, ale hokejku má za brankou, kdy hráè B pøijme míèek, stáhne si jej pøed branku a zkouší støílet
